@@ -16,6 +16,8 @@
    <img align="center" alt="springboot" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
    <img align="center" alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+   <img align="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+   <img align="center" alt="intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </div>
 
 ## PLATAFORMA ALTA - MAINFRAME
@@ -25,7 +27,3 @@
 ![Blog](https://img.shields.io/website?label=JCL&style=for-the-badge&url=https://pt.wikipedia.org/wiki/Job_Control_Language)
 ![Blog](https://img.shields.io/website?label=TSO&style=for-the-badge&url=https://www.ibm.com/docs/pt-br/qmf/11.2?topic=commands-tso)
 ![Blog](https://img.shields.io/website?label=PREDICT&style=for-the-badge&url=https://www.ibm.com/docs/pt-br/qmf/11.2?topic=commands-tso)
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-
-
