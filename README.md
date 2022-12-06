@@ -7,7 +7,7 @@
 
 ## Tecnologias que eu uso no meu dia
 
-## MICROINFORMÁTICA
+## PLATAFORMA BAIXA
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -21,4 +21,10 @@
 ![Blog](https://img.shields.io/website?label=ADABAS&style=for-the-badge&url=https://pt.wikipedia.org/wiki/Adabas)
 ![Blog](https://img.shields.io/website?label=NATURAL&style=for-the-badge&url=https://pt.wikipedia.org/wiki/NATURAL)
 ![Blog](https://img.shields.io/website?label=REXX&style=for-the-badge&url=https://pt.wikipedia.org/wiki/REXX)
+![Blog](https://img.shields.io/website?label=JCL&style=for-the-badge&url=https://pt.wikipedia.org/wiki/Job_Control_Language)
+![Blog](https://img.shields.io/website?label=TSO&style=for-the-badge&url=https://www.ibm.com/docs/pt-br/qmf/11.2?topic=commands-tso)
+![Blog](https://img.shields.io/website?label=PREDICT&style=for-the-badge&url=https://www.ibm.com/docs/pt-br/qmf/11.2?topic=commands-tso)
+
+
+
 
