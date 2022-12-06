@@ -1,4 +1,4 @@
-### OLÁ! EU SOU O GENÁRIO JÚNIOR, ANALISTA DESENVOLVEDOR NAS PLATAFORMAS MAINFRAME JAJA 🤚
+### OLÁ! EU SOU O GENÁRIO JÚNIOR, ANALISTA DESENVOLVEDOR NAS PLATAFORMAS MAINFRAME E JAVA 🤚
 ### CONSULTOR DE TI NO MINISTÉRIO PÚBLICO DO ESTADO DA PARAÍBA
 
 ## 🔗 Links
@@ -22,7 +22,9 @@
 
 ## PLATAFORMA ALTA - MAINFRAME
 ![Blog](https://img.shields.io/website?label=ADABAS&style=for-the-badge&url=https://pt.wikipedia.org/wiki/Adabas)
+![Blog](https://img.shields.io/website?label=DB2&style=for-the-badge&url=https://pt.wikipedia.org/wiki/DB2)
 ![Blog](https://img.shields.io/website?label=NATURAL&style=for-the-badge&url=https://pt.wikipedia.org/wiki/NATURAL)
+![Blog](https://img.shields.io/website?label=NATURALONE&style=for-the-badge&url=https://pt.wikipedia.org/wiki/NATURAL)
 ![Blog](https://img.shields.io/website?label=REXX&style=for-the-badge&url=https://pt.wikipedia.org/wiki/REXX)
 ![Blog](https://img.shields.io/website?label=JCL&style=for-the-badge&url=https://pt.wikipedia.org/wiki/Job_Control_Language)
 ![Blog](https://img.shields.io/website?label=TSO&style=for-the-badge&url=https://www.ibm.com/docs/pt-br/qmf/11.2?topic=commands-tso)
