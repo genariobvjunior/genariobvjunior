@@ -1,11 +1,12 @@
-### Olá! Eu sou o Genário Júnior  🤚
+### OLÁ! EU SOU O GENÁRIO JÚNIOR, ANALISTA DESENVOLVEDOR NAS PLATAFORMAS MAINFRAME JAJA 🤚
+### CONSULTOR DE TI NO MINISTÉRIO PÚBLICO DO ESTADO DA PARAÍBA
 
-
+## 🔗 Links
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gen%C3%A1rio-j%C3%BAnior-22a38861/) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=genariobvjunior&show_icons=true&theme=dark)
 
-## Tecnologias que eu uso no meu dia
+## TECNOLOGIAS QUE EU USO NO MEU DIA
 
 ## PLATAFORMA BAIXA
 
@@ -25,6 +26,6 @@
 ![Blog](https://img.shields.io/website?label=TSO&style=for-the-badge&url=https://www.ibm.com/docs/pt-br/qmf/11.2?topic=commands-tso)
 ![Blog](https://img.shields.io/website?label=PREDICT&style=for-the-badge&url=https://www.ibm.com/docs/pt-br/qmf/11.2?topic=commands-tso)
 
-
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 
 
